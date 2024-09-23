@@ -3,7 +3,7 @@
 ### Traine / Junior Front-End Developer
 I am looking for a dream job and want to make it happen. My strong communication skills and detail-oriented approach make me an effective team player. Always eager to learn, I am ready to apply my experience and enthusiasm to complete challenging web development tasks.
 
-## Connect with me  
+### Connect with me  
 <div align="start">
 <a href="https://www.linkedin.com/in/vadym-lantukh/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />

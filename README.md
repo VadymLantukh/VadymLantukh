@@ -1,7 +1,5 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vadym
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=VadymLantukh)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### Traine / Junior Front-End Developer
 
 I'm a junior Front-end developer looking for a job in the world. My strong communication skills and detail-oriented approach make me an effective team player. Always eager to learn, I am ready to apply my experience and enthusiasm to challenging web development tasks.
@@ -17,7 +15,8 @@ I'm a junior Front-end developer looking for a job in the world. My strong commu
 
 ### Socials<p align="left"> <a href="https://www.github.com/VadymLantukh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/vadym-lantukh/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### Statistic
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VadymLantukh&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VadymLantukh&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VadymLantukh&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VadymLantukh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VadymLantukh)](https://git.io/streak-stats)

@@ -1,5 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vadym
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=VadymLantukh)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### Traine / Junior Front-End Developer
 
 I'm a junior Front-end developer looking for a job in the world. My strong communication skills and detail-oriented approach make me an effective team player. Always eager to learn, I am ready to apply my experience and enthusiasm to challenging web development tasks.
@@ -17,4 +19,5 @@ I'm a junior Front-end developer looking for a job in the world. My strong commu
 
 ### Badges
 
-<a href="https://github.com/VadymLantukh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadymLantukh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VadymLantukh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VadymLantukh)](https://git.io/streak-stats)

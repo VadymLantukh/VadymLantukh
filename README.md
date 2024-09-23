@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vadym
 
-***Traine / Junior Front-End Developer***
+### Traine / Junior Front-End Developer
 
 I'm a junior Front-end developer looking for a job in the world. My strong communication skills and detail-oriented approach make me an effective team player. Always eager to learn, I am ready to apply my experience and enthusiasm to challenging web development tasks.
 

@@ -1,8 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vadym
 
 ### Traine / Junior Front-End Developer
-
-I'm a junior Front-end developer looking for a job in the world. My strong communication skills and detail-oriented approach make me an effective team player. Always eager to learn, I am ready to apply my experience and enthusiasm to challenging web development tasks.
+I am looking for a dream job and want to make it happen. My strong communication skills and detail-oriented approach make me an effective team player. Always eager to learn, I am ready to apply my experience and enthusiasm to complete challenging web development tasks.
 
 ### ✉️  You can contact me at:
  [Email](mailto:vadym.lantukh.1998@gmail.com )
@@ -17,6 +16,8 @@ I'm a junior Front-end developer looking for a job in the world. My strong commu
 
 ### Statistic
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VadymLantukh&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VadymLantukh&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VadymLantukh&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VadymLantukh&theme=radical)
+
 

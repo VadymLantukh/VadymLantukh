@@ -6,7 +6,7 @@ I'm a junior Front-end developer looking for a job in the world. My strong commu
 
 ### ✉️  You can contact me at:
  [Email](mailto:vadym.lantukh.1998@gmail.com )
- [Telegram](@Vadym_LantukH)
+ [Telegram](https://t.me/Vadym_LantukH)
 
 ### Skills
 

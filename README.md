@@ -1,4 +1,4 @@
-# FullStack Developer (React.js | Next.js | Node.js)
+# Front-end Developer (React.js | Next.js | Angular.js)
 
 ### Connect with me  
 <div align="start">

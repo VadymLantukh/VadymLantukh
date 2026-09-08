@@ -1,4 +1,4 @@
-# Front-end Developer (React.js | Next.js | Angular.js)
+# Front-end Developer (React.js | Next.js | Angular)
 
 ### Connect with me  
 <div align="start">

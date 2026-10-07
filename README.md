@@ -1,46 +1,68 @@
-# Front-end Developer (React.js | Next.js | Angular)
+# Vadym Lantukh
 
-### Connect with me  
-<div align="start">
-<a href="https://www.linkedin.com/in/vadym-lantukh/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://t.me/Vadym_LantukH" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="telegram logo"  />
-</a>
-</div>  
+**Frontend Developer** — React · Next.js · Angular
+Lubny, Ukraine · Remote
 
-### Skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadym-lantukh/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Vadym_LantukH)
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/angular.svg" alt="Angular" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/gulp-plain.svg" alt="Gulp" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" alt="Sass" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/redux-original.svg" alt="Redux" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/pug.svg" alt="PUG" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nginx-original.svg" alt="Nginx" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Static/nextjs-2.svg" alt="Nextjs" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
+---
 
+### About
 
+Frontend developer working across React/Next.js and modern Angular.
 
-### Statistic
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VadymLantukh&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VadymLantukh&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VadymLantukh&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VadymLantukh&theme=radical)
+Currently building a national GovTech platform in Angular 20+ while maintaining
+and extending a production fundraising product written in Next.js and legacy
+Backbone.js. Comfortable owning features end-to-end and working in mixed
+legacy/modern codebases.
 
+---
 
+### What I work on
+
+**Devhive** — *Feb 2026 – present*
+Developing the ЄСНУ GovTech platform (Unified System for Delegation of
+Authority) in Angular 20+ — feature modules with routing guards, resolvers,
+reactive forms and HTTP interceptors. Built the Givergy admin panel from
+scratch (React, Next.js, TypeScript) and maintain legacy Backbone.js modules
+running alongside the new application.
+
+**CleverStaff** — *May 2025 – Nov 2025*
+Migrated legacy AngularJS (v1) components to React as part of an incremental
+modernization of a production ATS platform. Redesigned core pages (Candidates,
+Vacancies) and supported the legacy app during the migration.
+
+**EatScanPay** *(startup, part-time)* — *Nov 2024 – present*
+Responsive web interfaces with TypeScript, React and Next.js; REST API
+integration via OpenAPI/Swagger.
+
+---
+
+### Stack
+
+**Core** · TypeScript · JavaScript · React · Next.js · Angular 18–22
+
+**Angular** · RxJS · Signals · Router (guards, resolvers) · Reactive Forms ·
+Dependency Injection · HTTP Interceptors · Angular Material
+
+**React** · Redux Toolkit · Zustand · TanStack Query · SWR · react-hook-form ·
+shadcn/ui · next-intl · i18next
+
+**Styling** · Tailwind CSS · SCSS · CSS3 · HTML5 · Responsive design · Figma
+
+**API & Backend** · REST · OpenAPI/Swagger · Node.js · Express · MongoDB
+
+**Tooling** · Git · GitHub/GitLab · Jira · Claude Code · Gemini Pro
+
+**Legacy** · AngularJS (v1) · Backbone.js · PUG · Less
+
+---
+
+### Languages
+
+Ukrainian — native · English — Intermediate
+
+---
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VadymLantukh&theme=github_dark)

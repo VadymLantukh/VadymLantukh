@@ -1,7 +1,6 @@
 # Vadym Lantukh
 
 **Frontend Developer** — React · Next.js · Angular
-Lubny, Ukraine · Remote
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadym-lantukh/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Vadym_LantukH)

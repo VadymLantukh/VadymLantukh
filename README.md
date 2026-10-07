@@ -22,7 +22,7 @@ legacy/modern codebases.
 ### What I work on
 
 **Devhive** — *Feb 2026 – present*
-Developing the ЄСНУ GovTech platform (Unified System for Delegation of
+Developing the GovTech platform (Unified System for Delegation of
 Authority) in Angular 20+ — feature modules with routing guards, resolvers,
 reactive forms and HTTP interceptors. Built the Givergy admin panel from
 scratch (React, Next.js, TypeScript) and maintain legacy Backbone.js modules

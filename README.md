@@ -30,7 +30,7 @@ Migrated legacy AngularJS (v1) components to React as part of an incremental
 modernization of a production ATS platform. Redesigned core pages (Candidates,
 Vacancies) and supported the legacy app during the migration.
 
-**EatScanPay** *(startup, part-time)* — *Nov 2024 – present*
+**EatScanPay** *(startup, part-time)* — *Nov 2024 – Nov 2026*
 Responsive web interfaces with TypeScript, React and Next.js; REST API
 integration via OpenAPI/Swagger.
 
